@@ -1,1 +1,1 @@
-# Traductor_ADN_a_Proteinas
+# Traductor-de-ADN-a-Proteinas
